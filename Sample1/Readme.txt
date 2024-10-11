@@ -11,6 +11,7 @@ The following steps are necessary to get this to work
    ContextMenu>Enable NuGet Package Restore
 
 3> Rebuild Solution
+3.1> New file HDML open in repository "No.1"
    
 4> Close and Re>Open Visual Studio (not just the solution)
    You will otherwise not see the References to CefSharp and get corresponding errors
